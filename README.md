@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Apu-Emdad
-- 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning HTML,CSS,Javascript(jquery),Wordpress,MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+MERN stck Developer | React.JS | Node.JS | Express.JS | MongoDB
 
 <!---
 Apu-Emdad/Apu-Emdad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
