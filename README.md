@@ -15,19 +15,30 @@ _As a software engineer with professional experience, I aspire to enhance my exp
   </a>
 </p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" title="Vue.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" title="Redux"/>  
+<img src="https://cdn.jsdelivr.net/gh/TanStack/query/logo.svg" width="30" title="TanStack Query"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" title="TailwindCSS"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Vuetify_Logo.svg" width="30" title="Vuetify"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express.js"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jsonwebtokens-original.svg" width="30" title="JWT"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="Bitbucket"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" title="Jira"/>
 
-## 🛠️ Skills
 
 
-**Languages:** JavaScript, TypeScript, SQL, C++
-
-**Front End:** HTML, CSS, SASS, React.js, Next.js, Vue.js, Redux, Redux Toolkit, TanStack Query, Axios, React-hook-form, Formik, Material UI, Bootstrap, Tailwind
-
-**Back End:** Node.js, Express.js, MongoDB, Mongoose, MySQL, JWT, Zod, Joi, Multer
-
-**Data Tools:** MS PowerApps, SharePoint, Excel, Power Automate, Power BI
-
-**Collaboration & Workflow Tools:** Git, Bitbucket, Postman, Swagger, Jira, Shortcut
 
 ## 💼 Experience
 
@@ -53,6 +64,20 @@ Institute of Science and Technology, Dhaka
 - Actively participated in inter-department programming contests  
 - Successfully demonstrated and defended the final year project on *Low-Cost Spin Coater*  
 - Contributed to multiple outsourced web projects contractually
+
+## 🛠️ Skills
+
+
+**Languages:** JavaScript, TypeScript, SQL, C++
+
+**Front End:** HTML, CSS, SASS, React.js, Next.js, Vue.js, Redux, Redux Toolkit, TanStack Query, Axios, React-hook-form, Formik, Material UI, Bootstrap, Tailwind
+
+**Back End:** Node.js, Express.js, MongoDB, Mongoose, MySQL, JWT, Zod, Joi, Multer
+
+**Data Tools:** MS PowerApps, SharePoint, Excel, Power Automate, Power BI
+
+**Collaboration & Workflow Tools:** Git, Bitbucket, Postman, Swagger, Jira, Shortcut
+
 
 ## 🏅 Certification  
 Duolingo English Test  
