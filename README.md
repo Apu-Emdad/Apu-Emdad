@@ -31,7 +31,6 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/> &nbsp;
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="30" title="Tailwind CSS"/> &nbsp;
 <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo-circle.svg" width="30" title="Vuetify"/> &nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30" title="Bitbucket"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/> &nbsp;
