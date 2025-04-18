@@ -19,15 +19,15 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 ## 🛠️ Skills
 
 
-#### **Languages:** JavaScript, TypeScript, SQL, C++
+**Languages:** JavaScript, TypeScript, SQL, C++
 
-#### **Front End:** HTML, CSS, SASS, React.js, Next.js, Vue.js, Redux, Redux Toolkit, TanStack Query, Axios, React-hook-form, Formik, Material UI, Bootstrap, Tailwind
+**Front End:** HTML, CSS, SASS, React.js, Next.js, Vue.js, Redux, Redux Toolkit, TanStack Query, Axios, React-hook-form, Formik, Material UI, Bootstrap, Tailwind
 
-#### **Back End:** Node.js, Express.js, MongoDB, Mongoose, MySQL, JWT, Zod, Joi, Multer
+**Back End:** Node.js, Express.js, MongoDB, Mongoose, MySQL, JWT, Zod, Joi, Multer
 
-#### **Data Tools:** MS PowerApps, SharePoint, Excel, Power Automate, Power BI
+**Data Tools:** MS PowerApps, SharePoint, Excel, Power Automate, Power BI
 
-#### **Collaboration & Workflow Tools:** Git, Bitbucket, Postman, Swagger, Jira, Shortcut
+**Collaboration & Workflow Tools:** Git, Bitbucket, Postman, Swagger, Jira, Shortcut
 
 ## 💼 Experience
 
