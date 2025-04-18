@@ -1,7 +1,5 @@
-MERN stack Developer | React.JS | Node.JS | Express.JS | MongoDB
-
 # Emdadul Haque Apu  
-### 💼 Software Engineer  
+### 💻 Software Engineer  
 
 _As a software engineer with professional experience, I aspire to enhance my expertise in a collaborative work environment._
 
@@ -18,46 +16,58 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 </p>
 
 
-
-### 🛠️ Skills
-
-#### **Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-
-#### **Front End**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="background-color:white;"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> &nbsp;
-<img src="https://www.svgrepo.com/show/303631/tailwind-css.svg" width="30" alt="Tailwind CSS Logo"/> &nbsp;
-<img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="30" alt="Material UI Logo"/> &nbsp;
+## 🛠️ Skills
 
 
+#### **Languages:** JavaScript, TypeScript, SQL, C++
+
+#### **Front End:** HTML, CSS, SASS, React.js, Next.js, Vue.js, Redux, Redux Toolkit, TanStack Query, Axios, React-hook-form, Formik, Material UI, Bootstrap, Tailwind
+
+#### **Back End:** Node.js, Express.js, MongoDB, Mongoose, MySQL, JWT, Zod, Joi, Multer
+
+#### **Data Tools:** MS PowerApps, SharePoint, Excel, Power Automate, Power BI
+
+#### **Collaboration & Workflow Tools:** Git, Bitbucket, Postman, Swagger, Jira, Shortcut
+
+## 💼 Experience
 
 
-#### **Back End**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> &nbsp;
-<img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="30" alt="Material UI Logo"/> &nbsp;
-<img src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" width="30" alt="JWT Logo"/> &nbsp;
+#### **Jr. Software Engineer**  
+**TechHub, Save the Children International**  
+*January 2023 – Present*
+
+**Key Responsibilities:**  
+- Developed interactive and reusable UI components using JavaScript frameworks such as React, Vue, and Next in 7+ applications  
+- Improved application performance by 40-80%, minimizing data fetching and efficient state management  
+- Developed MVC-based features with Laravel and MySQL  
+- Collaborated on 2+ PowerApps projects with the Data Analyst team  
+- Resolved bugs and issues to ensure application stability
 
 
-🛡️ JWT &nbsp; 🔍 Zod &nbsp; ✅ Joi &nbsp; 📁 Multer
+## 🎓 Education
+
+**BSc (Hons)** in Electronics & Communication Engineering (ECE),  
+Institute of Science and Technology, Dhaka
+
+**Academic and Co-curricular Activities:**  
+- Actively participated in inter-department programming contests  
+- Successfully demonstrated and defended the final year project on *Low-Cost Spin Coater*  
+- Contributed to multiple outsourced web projects contractually
+
+## 🏅 Certification  
+Duolingo English Test  
+Score — 125  
+CEFR Level: B2–C1  
+July 6, 2024  
+
+## 🌍 Language  
+ **English**: Proficient Efficiency  
+ **Bengali**: Native Efficiency
 
 
 
-#### **Collaboration & Workflow Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/> &nbsp;
+
+
 
 
 
