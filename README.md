@@ -9,7 +9,6 @@ _As a software engineer with professional experience, I aspire to enhance my exp
   </a>
 </p>
 
-☎️ +8801515-294350, +8801786-698132  
 ✉️ emdadulHaqueofficial4@gmail.com  
 🌐 [github.com/Apu-Emdad](https://github.com/Apu-Emdad)  
 🔗 [linkedin.com/in/apu-emdad](https://www.linkedin.com/in/apu-emdad/)  
