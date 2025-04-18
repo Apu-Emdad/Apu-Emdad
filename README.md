@@ -35,7 +35,7 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="background-color:white;"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30" alt="Tailwind CSS Logo"/> &nbsp;
+<img src="https://www.svgrepo.com/show/303631/tailwind-css.svg" width="30" alt="Tailwind CSS Logo"/> &nbsp;
 <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="30" alt="Material UI Logo"/> &nbsp;
 
 
