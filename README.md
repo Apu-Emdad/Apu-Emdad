@@ -12,7 +12,7 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 ✉️ emdadulHaqueofficial4@gmail.com  
 🌐 [github.com/Apu-Emdad](https://github.com/Apu-Emdad)  
 🔗 [linkedin.com/in/apu-emdad](https://www.linkedin.com/in/apu-emdad/)
-📝 [dev.to/apu_emdad](https://dev.to/apu_emdad) 
+📝 [dev.to/apu_emdad](https://dev.to/apu_emdad)
 📌 Dhaka, Bangladesh
 
 
