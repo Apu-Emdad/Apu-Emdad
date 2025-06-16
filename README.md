@@ -11,8 +11,8 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 
 ✉️ emdadulHaqueofficial4@gmail.com  
 🌐 [github.com/Apu-Emdad](https://github.com/Apu-Emdad)  
-🔗 [linkedin.com/in/apu-emdad](https://www.linkedin.com/in/apu-emdad/)
-📝 [dev.to/apu_emdad](https://dev.to/apu_emdad)
+🔗 [linkedin.com/in/apu-emdad](https://www.linkedin.com/in/apu-emdad/)  
+📝 [dev.to/apu_emdad](https://dev.to/apu_emdad)  
 📌 Dhaka, Bangladesh
 
 
@@ -51,7 +51,7 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 - Developed interactive and reusable UI components using JavaScript frameworks such as React, Vue, and Next in 7+ applications  
 - Improved application performance by 40-80%, minimizing data fetching and efficient state management  
 - Developed MVC-based features with Laravel and MySQL  
-- Collaborated on 2+ PowerApps projects with the Data Analyst team  
+- Collaborated on 3+ PowerApps projects with the Data Analyst team  
 - Resolved bugs and issues to ensure application stability
 
 
