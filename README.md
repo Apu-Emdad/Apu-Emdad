@@ -43,7 +43,7 @@ _As a software engineer with professional experience, I aspire to enhance my exp
 ## 💼 Experience
 
 
-#### **Jr. Software Engineer**  
+#### **Software Engineer**  
 **TechHub, Save the Children International**  
 *January 2023 – Present*
 
