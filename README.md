@@ -4,7 +4,7 @@
 _Full-stack software engineer with 3+ years of experience turning complex business requirements into scalable, reliable applications. Focused on delivering enterprise features, building high-performance APIs, optimizing data-intensive systems, and improving engineering workflows from development through deployment._
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ozOXFeEGIAol9Z9tmojNy3cLYiHgBkO9/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1XxYz1sxZTTrG9FNaLDVb3SJdLqAUDsCr/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View%20Résumé-007ACC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
@@ -19,9 +19,6 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" title="Vue.js"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" title="Express.js"/> &nbsp;
@@ -29,10 +26,13 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" title="Redis"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30" title="Prisma"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" title="Vue.js"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" title="Redux"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" title="Material UI"/> &nbsp;
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" width="30" title="Tailwind CSS"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="30" title="GitHub Actions"/>
