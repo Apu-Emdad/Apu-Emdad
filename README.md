@@ -99,14 +99,6 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 - Building expertise in secure systems and data-intensive computing  
 - Research in progress: Detecting stealthy malicious npm packages (install-script and single-command attacks) using public malware benchmarks
 
-**BSc (Hons)** in Electronics & Communication Engineering (ECE),  
-Institute of Science and Technology, Dhaka
-
-**Academic and Co-curricular Activities:**  
-- Actively participated in inter-department programming contests  
-- Successfully demonstrated and defended the final year project on *Low-Cost Spin Coater*  
-- Contributed to multiple outsourced web projects contractually
-
 ## 🛠️ Skills
 
 
