@@ -90,6 +90,17 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 - Reduced redundant API calls and improved performance by up to 80% through caching and optimization
 
 
+## 🌱 Open Source Contributions
+
+**[OpsiMate](https://github.com/OpsiMate/OpsiMate)** — Open-source alert management platform for NOC/DevOps teams  
+*TypeScript · Node.js · Express*
+
+- [#1155](https://github.com/OpsiMate/OpsiMate/pull/1155) — Returned 404 instead of 500 for unknown integrations and rejected malformed IDs with 400  
+- [#1154](https://github.com/OpsiMate/OpsiMate/pull/1154) — Logged the errors behind six silent 500 responses in the users controller, making database failures at login visible
+
+➡️ [All merged contributions](https://github.com/pulls?q=is%3Apr+author%3AApu-Emdad+is%3Amerged+-user%3AApu-Emdad)
+
+
 ## 🎓 Education
 
 **MSc in Computer Science and Engineering**,  
