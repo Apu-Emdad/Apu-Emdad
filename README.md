@@ -98,6 +98,11 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 - [#1155](https://github.com/OpsiMate/OpsiMate/pull/1155) — Returned 404 instead of 500 for unknown integrations and rejected malformed IDs with 400  
 - [#1154](https://github.com/OpsiMate/OpsiMate/pull/1154) — Logged the errors behind six silent 500 responses in the users controller, making database failures at login visible
 
+**[Ansvisor](https://github.com/ansvisor/ansvisor)** — Open-source AI search intelligence platform for tracking AI visibility and citations  
+*Node.js · PostgreSQL · node-cron*
+
+- [#1006](https://github.com/ansvisor/ansvisor/pull/1006) — Rebuilt citation rollups within minutes of a topic move instead of at the nightly sweep, with a guard against overlapping rebuilds
+
 ➡️ [All merged contributions](https://github.com/pulls?q=is%3Apr+author%3AApu-Emdad+is%3Amerged+-user%3AApu-Emdad)
 
 
