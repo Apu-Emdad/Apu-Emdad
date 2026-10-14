@@ -93,7 +93,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 ## 🌱 Open Source Contributions
 
 **[OpsiMate](https://github.com/OpsiMate/OpsiMate)** — Open-source alert management platform for NOC/DevOps teams  
-*TypeScript · Node.js · Express*
+*TypeScript · Node.js · Express · React · React Query*
 
 - [#1185](https://github.com/OpsiMate/OpsiMate/pull/1185) — Routed all date rendering through one shared formatter, so dates follow the viewer's locale and show a fallback instead of "Invalid Date"  
 - [#1184](https://github.com/OpsiMate/OpsiMate/pull/1184) — Moved the Integrations page to the shared React Query hook and derived its instance counts from fresh data, fixing a count that reset to 0 on delete  
