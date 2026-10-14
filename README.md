@@ -95,6 +95,8 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 **[OpsiMate](https://github.com/OpsiMate/OpsiMate)** — Open-source alert management platform for NOC/DevOps teams  
 *TypeScript · Node.js · Express*
 
+- [#1185](https://github.com/OpsiMate/OpsiMate/pull/1185) — Routed all date rendering through one shared formatter, so dates follow the viewer's locale and show a fallback instead of "Invalid Date"  
+- [#1184](https://github.com/OpsiMate/OpsiMate/pull/1184) — Moved the Integrations page to the shared React Query hook and derived its instance counts from fresh data, fixing a count that reset to 0 on delete  
 - [#1155](https://github.com/OpsiMate/OpsiMate/pull/1155) — Returned 404 instead of 500 for unknown integrations and rejected malformed IDs with 400  
 - [#1154](https://github.com/OpsiMate/OpsiMate/pull/1154) — Logged the errors behind six silent 500 responses in the users controller, making database failures at login visible
 
