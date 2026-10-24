@@ -31,6 +31,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <details open>
 <summary title="Click to expand / collapse"><b>🌱 Open Source Contributions</b></summary>
+<br>
 
 **[Actual](https://github.com/actualbudget/actual)** — Local-first personal finance app  
 *TypeScript · React · SQLite*
@@ -55,6 +56,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <details>
 <summary title="Click to expand / collapse"><b>💼 Experience</b></summary>
+<br>
 
 **Full Stack Developer L2**  
 **Manush AI Platform LTD**  
@@ -86,6 +88,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <details>
 <summary title="Click to expand / collapse"><b>🚀 Projects</b></summary>
+<br>
 
 **Prism** — Field Force Automation Platform (FMCG, Bangladesh)  
 *NestJS · React · PostgreSQL · Prisma · Mantine UI · Redux Toolkit · TanStack Query · ExcelJS*
@@ -107,6 +110,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <details>
 <summary title="Click to expand / collapse"><b>🎓 Education</b></summary>
+<br>
 
 **MSc in Computer Science and Engineering**,  
 Jahangirnagar University — *Sep 2025 – Dec 2026*
@@ -119,6 +123,7 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 
 <details>
 <summary title="Click to expand / collapse"><b>🛠️ Skills</b></summary>
+<br>
 
 **Language:** JavaScript, TypeScript, SQL, C++
 
@@ -138,6 +143,7 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 
 <details>
 <summary title="Click to expand / collapse"><b>📚 Courses</b></summary>
+<br>
 
 **Introduction to DevOps** — IBM, *Coursera*  
 Fundamentals of CI/CD, IaC, automated deployments, microservices, and DevOps culture.
@@ -149,6 +155,7 @@ Fundamentals of containerization, Kubernetes architecture, and YAML-based deploy
 
 <details>
 <summary title="Click to expand / collapse"><b>🏅 Certification</b></summary>
+<br>
 
 **Duolingo English Test**  
 Score — 125  
@@ -158,6 +165,7 @@ CEFR Level: B2–C1
 
 <details>
 <summary title="Click to expand / collapse"><b>🌍 Language</b></summary>
+<br>
 
 **English**: Professional proficiency  
 **Bangla**: Native proficiency
