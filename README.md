@@ -9,14 +9,6 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
   </a>
 </p>
 
-✉️ emdadulHaqueofficial4@gmail.com  
-🌐 [github.com/Apu-Emdad](https://github.com/Apu-Emdad)  
-🔗 [linkedin.com/in/apu-emdad](https://www.linkedin.com/in/apu-emdad/)  
-📝 [dev.to/apu_emdad](https://dev.to/apu_emdad)  
-📌 Dhaka, Bangladesh
-
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> &nbsp;
@@ -37,60 +29,8 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="30" title="GitHub Actions"/>
 
-
-
-
-
-## 💼 Experience
-
-
-#### **Full Stack Developer L2**  
-**Manush AI Platform LTD**  
-*August 2025 – Present*
-
-- Designed, developed, and delivered 50+ backend modules supporting large-scale enterprise workflows  
-- Streamlined PostgreSQL performance through indexing, query tuning, and materialized views, reducing report generation times by up to 10x for datasets containing billions of records  
-- Built ExcelJS reporting for FMCG field operations, including market survey analysis across millions of retailers and real-time daily sales vs. target reports  
-- Led feature delivery, code reviews, and technical estimation in Agile sprints while mentoring developers  
-- Built GitHub Actions CI/CD pipelines automating testing and deployment, cutting release time from 30 to 5 minutes  
-- Optimized complex SQL queries and implemented Redis-based locking mechanisms to prevent race conditions and handle concurrency edge cases  
-- Built 20+ cron jobs automating background processing, scheduled reports, and data synchronization  
-- Implemented JWT and cookie-based authentication with Redis-backed sessions and role-based authorization  
-- Built responsive frontends with React, TypeScript, Next.js, Mantine UI, Redux Toolkit, and TanStack Query
-
-
-#### **Jr. Software Engineer**  
-**TechHub, Save the Children International**  
-*January 2023 – August 2025*
-
-- Built platforms for humanitarian programs, including UCAN (war-affected children), Uganda Skilling Exchange (vocational training), UFind (national survey, Sri Lanka), and SCI-Assets (global asset management)  
-- Built a React-NestJS-based SaaS CMS (*SCI React Admin*) and successfully shipped 3+ client projects using the platform  
-- Built and maintained Node.js (Express) REST APIs for 10+ applications, with MongoDB schema design, indexing, and aggregation pipelines  
-- Improved application performance by 40–80% by minimizing data fetching and implementing efficient state management  
-- Built reusable UI components with React, Vue, and Next.js across 7+ applications  
-- Delivered 2+ PowerApps solutions with the Data Analytics team, automating field data collection
-
-
-## 🚀 Projects
-
-#### **Prism** — Field Force Automation Platform (FMCG, Bangladesh)  
-*NestJS · React · PostgreSQL · Prisma · Mantine UI · Redux Toolkit · TanStack Query · ExcelJS*
-
-- Shipped 10+ full-stack features and mobile APIs enabling real-time operations with cross-functional teams  
-- Developed and refined backend services integrating NestJS, PostgreSQL and Redis for high-performance data management  
-- Generated materialized views and applied necessary schema tuning for analytics over billions of records  
-- Created cron-based scheduling systems for automated reporting, data sync, and backend workflows
-
-#### **SCI-React-Admin** — Custom CMS Platform (3+ projects delivered)  
-*NestJS · React · PostgreSQL · TypeORM · Material UI · React Hook Form · Redux Toolkit · RTK Query · Axios*
-
-- Developed a full-stack CMS using React, NestJS, and PostgreSQL with modular architecture  
-- Designed and optimized database schema and queries using TypeORM for scalable data access  
-- Implemented role-based access control (RBAC) for secure content and user management  
-- Reduced redundant API calls and improved performance by up to 80% through caching and optimization
-
-
-## 🌱 Open Source Contributions
+<details open>
+<summary title="Click to expand / collapse"><b>🌱 Open Source Contributions</b></summary>
 
 **[OpsiMate](https://github.com/OpsiMate/OpsiMate)** — Open-source alert management platform for NOC/DevOps teams  
 *TypeScript · Node.js · Express · React · React Query*
@@ -107,8 +47,62 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 ➡️ [All merged contributions](https://github.com/pulls?q=is%3Apr+author%3AApu-Emdad+is%3Amerged+-user%3AApu-Emdad)
 
+</details>
 
-## 🎓 Education
+<details>
+<summary title="Click to expand / collapse"><b>💼 Experience</b></summary>
+
+**Full Stack Developer L2**  
+**Manush AI Platform LTD**  
+*August 2025 – Present*
+
+- Designed, developed, and delivered 50+ backend modules supporting large-scale enterprise workflows  
+- Streamlined PostgreSQL performance through indexing, query tuning, and materialized views, reducing report generation times by up to 10x for datasets containing billions of records  
+- Built ExcelJS reporting for FMCG field operations, including market survey analysis across millions of retailers and real-time daily sales vs. target reports  
+- Led feature delivery, code reviews, and technical estimation in Agile sprints while mentoring developers  
+- Built GitHub Actions CI/CD pipelines automating unit testing, end-to-end testing, and deployment  
+- Optimized complex SQL queries and implemented Redis-based locking mechanisms to prevent race conditions and handle concurrency edge cases  
+- Built 20+ cron jobs automating background processing, scheduled reports, and data synchronization  
+- Implemented JWT and cookie-based authentication with Redis-backed sessions and role-based authorization  
+- Built responsive frontends with React, TypeScript, Next.js, Mantine UI, Redux Toolkit, and TanStack Query
+
+
+**Jr. Software Engineer**  
+**TechHub, Save the Children International**  
+*January 2023 – August 2025*
+
+- Built platforms for humanitarian programs, including UCAN (war-affected children), Uganda Skilling Exchange (vocational training), UFind (national survey, Sri Lanka), and SCI-Assets (global asset management)  
+- Built a React-NestJS-based SaaS CMS (*SCI React Admin*) and successfully shipped 3+ client projects using the platform  
+- Built and maintained Node.js (Express) REST APIs for 10+ applications, with MongoDB schema design, indexing, and aggregation pipelines  
+- Improved application performance by 40–80% by minimizing data fetching and implementing efficient state management  
+- Built reusable UI components with React, Vue, and Next.js across 7+ applications  
+- Delivered 2+ PowerApps solutions with the Data Analytics team, automating field data collection
+
+</details>
+
+<details>
+<summary title="Click to expand / collapse"><b>🚀 Projects</b></summary>
+
+**Prism** — Field Force Automation Platform (FMCG, Bangladesh)  
+*NestJS · React · PostgreSQL · Prisma · Mantine UI · Redux Toolkit · TanStack Query · ExcelJS*
+
+- Shipped 10+ full-stack features and mobile APIs enabling real-time operations with cross-functional teams  
+- Developed and refined backend services integrating NestJS, PostgreSQL and Redis for high-performance data management  
+- Generated materialized views and applied necessary schema tuning for analytics over billions of records  
+- Created cron-based scheduling systems for automated reporting, data sync, and backend workflows
+
+**SCI-React-Admin** — Custom CMS Platform (3+ projects delivered)  
+*NestJS · React · PostgreSQL · TypeORM · Material UI · React Hook Form · Redux Toolkit · RTK Query · Axios*
+
+- Developed a full-stack CMS using React, NestJS, and PostgreSQL with modular architecture  
+- Designed and optimized database schema and queries using TypeORM for scalable data access  
+- Implemented role-based access control (RBAC) for secure content and user management  
+- Reduced redundant API calls and improved performance by up to 80% through caching and optimization
+
+</details>
+
+<details>
+<summary title="Click to expand / collapse"><b>🎓 Education</b></summary>
 
 **MSc in Computer Science and Engineering**,  
 Jahangirnagar University — *Sep 2025 – Dec 2026*
@@ -117,8 +111,10 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 - Building expertise in secure systems and data-intensive computing  
 - Research in progress: Detecting stealthy malicious npm packages (install-script and single-command attacks) using public malware benchmarks
 
-## 🛠️ Skills
+</details>
 
+<details>
+<summary title="Click to expand / collapse"><b>🛠️ Skills</b></summary>
 
 **Language:** JavaScript, TypeScript, SQL, C++
 
@@ -134,8 +130,10 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 
 **Concepts:** Microservices, System Design, OOP
 
+</details>
 
-## 📚 Courses
+<details>
+<summary title="Click to expand / collapse"><b>📚 Courses</b></summary>
 
 **Introduction to DevOps** — IBM, *Coursera*  
 Fundamentals of CI/CD, IaC, automated deployments, microservices, and DevOps culture.
@@ -143,26 +141,24 @@ Fundamentals of CI/CD, IaC, automated deployments, microservices, and DevOps cul
 **Introduction to Containers w/ Docker, Kubernetes & OpenShift** — IBM, *Coursera*  
 Fundamentals of containerization, Kubernetes architecture, and YAML-based deployment of cloud-native applications.
 
+</details>
 
-## 🏅 Certification  
+<details>
+<summary title="Click to expand / collapse"><b>🏅 Certification</b></summary>
+
 Duolingo English Test  
 Score — 125  
-CEFR Level: B2–C1  
+CEFR Level: B2–C1
 
-## 🌍 Language  
- **English**: Professional proficiency  
- **Bangla**: Native proficiency
+</details>
 
+<details>
+<summary title="Click to expand / collapse"><b>🌍 Language</b></summary>
 
+**English**: Professional proficiency  
+**Bangla**: Native proficiency
 
-
-
-
-
-
-
-
-
+</details>
 
 <!---
 Apu-Emdad/Apu-Emdad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
