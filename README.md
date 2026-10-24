@@ -146,7 +146,7 @@ Fundamentals of containerization, Kubernetes architecture, and YAML-based deploy
 <details>
 <summary title="Click to expand / collapse"><b>🏅 Certification</b></summary>
 
-Duolingo English Test  
+**Duolingo English Test**  
 Score — 125  
 CEFR Level: B2–C1
 
