@@ -32,18 +32,23 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 <details open>
 <summary title="Click to expand / collapse"><b>🌱 Open Source Contributions</b></summary>
 
+**[Actual](https://github.com/actualbudget/actual)** — Local-first personal finance app (29k+ ⭐)  
+*TypeScript · React · SQLite*
+
+- [#9238](https://github.com/actualbudget/actual/pull/9238) — Stopped the rule preview from crashing while a regex is still being typed, by making the shared SQLite `REGEXP` function treat an invalid pattern as "no match" on both web and desktop
+
+**[LibreDB Studio](https://github.com/libredb/libredb-studio)** — Open-source SQL IDE for PostgreSQL, MySQL, MongoDB, Redis and more  
+*TypeScript · Node.js*
+
+- [#1843](https://github.com/libredb/libredb-studio/pull/1843) — Fixed a misleading "No model to classify" log when only the configured `LLM_MODEL_EFFORT` was refused, with tests written first and 100% coverage on the changed file
+
 **[OpsiMate](https://github.com/OpsiMate/OpsiMate)** — Open-source alert management platform for NOC/DevOps teams  
 *TypeScript · Node.js · Express · React · React Query*
 
 - [#1185](https://github.com/OpsiMate/OpsiMate/pull/1185) — Routed all date rendering through one shared formatter, so dates follow the viewer's locale and show a fallback instead of "Invalid Date"  
 - [#1184](https://github.com/OpsiMate/OpsiMate/pull/1184) — Moved the Integrations page to the shared React Query hook and derived its instance counts from fresh data, fixing a count that reset to 0 on delete  
 - [#1155](https://github.com/OpsiMate/OpsiMate/pull/1155) — Returned 404 instead of 500 for unknown integrations and rejected malformed IDs with 400  
-- [#1154](https://github.com/OpsiMate/OpsiMate/pull/1154) — Logged the errors behind six silent 500 responses in the users controller, making database failures at login visible
-
-**[Ansvisor](https://github.com/ansvisor/ansvisor)** — Open-source AI search intelligence platform for tracking AI visibility and citations  
-*Node.js · PostgreSQL · node-cron*
-
-- [#1006](https://github.com/ansvisor/ansvisor/pull/1006) — Rebuilt citation rollups within minutes of a topic move instead of at the nightly sweep, with a guard against overlapping rebuilds
+- [#1198](https://github.com/OpsiMate/OpsiMate/pull/1198) — Returned 404 instead of a false 200 when updating the role of a user that doesn't exist
 
 ➡️ [All merged contributions](https://github.com/pulls?q=is%3Apr+author%3AApu-Emdad+is%3Amerged+-user%3AApu-Emdad)
 
