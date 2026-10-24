@@ -31,7 +31,6 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 <details open>
 <summary title="Click to expand / collapse"><b>🌱 Open Source Contributions</b></summary>
-<br>
 
 **[Actual](https://github.com/actualbudget/actual)** — Local-first personal finance app  
 *TypeScript · React · SQLite*
