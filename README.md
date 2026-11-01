@@ -134,7 +134,7 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 
 **Styling/UI:** Tailwind CSS, Material UI, Mantine UI, Shadcn UI, Bootstrap
 
-**DevOps/Cloud:** Docker, Git, CI/CD (GitHub Actions), AWS S3
+**DevOps/Cloud:** Docker, Kubernetes, Nginx, Git, CI/CD (GitHub Actions), AWS (EC2, S3)
 
 **Concepts:** Microservices, System Design, OOP
 
