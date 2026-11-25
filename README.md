@@ -62,8 +62,8 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 *August 2025 – Present*
 
 - Designed, developed, and delivered 50+ backend modules supporting large-scale enterprise workflows  
-- Streamlined PostgreSQL performance through indexing, query tuning, and materialized views, reducing report generation times by up to 10x for datasets containing billions of records  
-- Built ExcelJS reporting for FMCG field operations, including market survey analysis across millions of retailers and real-time daily sales vs. target reports  
+- Streamlined PostgreSQL performance through indexing, query tuning, and materialized views, reducing report generation times by up to 20x for datasets containing billions of records  
+- Scaled heavy report generation with RabbitMQ background jobs and Redis caching, cutting report time from over 10 minutes to under 30 seconds  
 - Led feature delivery, code reviews, and technical estimation in Agile sprints while mentoring developers  
 - Built GitHub Actions CI/CD pipelines automating unit testing, end-to-end testing, and deployment  
 - Optimized complex SQL queries and implemented Redis-based locking mechanisms to prevent race conditions and handle concurrency edge cases  
@@ -93,7 +93,7 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 *NestJS · React · PostgreSQL · Prisma · Mantine UI · Redux Toolkit · TanStack Query · ExcelJS*
 
 - Shipped 10+ full-stack features and mobile APIs enabling real-time operations with cross-functional teams  
-- Developed and refined backend services integrating NestJS, PostgreSQL and Redis for high-performance data management  
+- Built ExcelJS reporting for FMCG field operations, including market survey analysis across millions of retailers and real-time daily sales vs. target reports  
 - Generated materialized views and applied necessary schema tuning for analytics over billions of records  
 - Created cron-based scheduling systems for automated reporting, data sync, and backend workflows
 
@@ -126,9 +126,9 @@ Jahangirnagar University — *Sep 2025 – Dec 2026*
 
 **Language:** JavaScript, TypeScript, SQL, C++
 
-**Backend:** Node.js, NestJS, Express.js, REST APIs
+**Backend:** Node.js, NestJS, Express.js, REST APIs, RabbitMQ, BullMQ
 
-**Databases/ORMs:** PostgreSQL, MongoDB, Redis, Prisma, TypeORM
+**Databases/ORMs:** PostgreSQL, MongoDB, Redis, Prisma, TypeORM, Mongoose
 
 **Frontend:** React, Vue, Next.js, Redux Toolkit, React Hook Form, Formik
 
