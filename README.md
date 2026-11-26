@@ -73,12 +73,11 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 - Built responsive frontends with React, TypeScript, Next.js, Mantine UI, Redux Toolkit, and TanStack Query
 
 
-**Jr. Software Engineer**  
+**Software Engineer**  
 **TechHub, Save the Children International**  
 *January 2023 – August 2025*
 
-- Built platforms for humanitarian programs, including UCAN (war-affected children), Uganda Skilling Exchange (vocational training), UFind (national survey, Sri Lanka), and SCI-Assets (global asset management)  
-- Built a React-NestJS-based SaaS CMS (*SCI React Admin*) and successfully shipped 3+ client projects using the platform  
+- Built a React-NestJS-based SaaS CMS successfully shipped 3+ client projects using the platform  
 - Built Express REST APIs for 10+ applications with MongoDB schema design and validation  
 - Cut MongoDB query response times by 40% using indexing and aggregation pipelines  
 - Improved app performance by 40–80% through leaner data fetching and efficient state management  
