@@ -62,13 +62,14 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 *August 2025 – Present*
 
 - Designed, developed, and delivered 50+ backend modules supporting large-scale enterprise workflows  
-- Streamlined PostgreSQL performance through indexing, query tuning, and materialized views, reducing report generation times by up to 20x for datasets containing billions of records  
+- Cut PostgreSQL query times by up to 20x on billions of records using indexes and materialized views  
 - Scaled heavy report generation with RabbitMQ background jobs and Redis caching, cutting report time from over 10 minutes to under 30 seconds  
+- Implemented Redis-based locking to prevent race conditions for 100+ concurrent users  
+- Built 20+ cron jobs automating background processing, scheduled tasks, and data synchronization  
+- Built a CX support console for data reconciliation issues, reducing developer escalations by 3x  
 - Led feature delivery, code reviews, and technical estimation in Agile sprints while mentoring developers  
 - Built GitHub Actions CI/CD pipelines automating unit testing, end-to-end testing, and deployment  
-- Optimized complex SQL queries and implemented Redis-based locking mechanisms to prevent race conditions and handle concurrency edge cases  
-- Built 20+ cron jobs automating background processing, scheduled reports, and data synchronization  
-- Implemented JWT and cookie-based authentication with Redis-backed sessions and role-based authorization  
+- Designed Role-Based Access Control (RBAC) with JWT and cookie-based auth  
 - Built responsive frontends with React, TypeScript, Next.js, Mantine UI, Redux Toolkit, and TanStack Query
 
 
@@ -78,8 +79,9 @@ _Full-stack software engineer with 3+ years of experience turning complex busine
 
 - Built platforms for humanitarian programs, including UCAN (war-affected children), Uganda Skilling Exchange (vocational training), UFind (national survey, Sri Lanka), and SCI-Assets (global asset management)  
 - Built a React-NestJS-based SaaS CMS (*SCI React Admin*) and successfully shipped 3+ client projects using the platform  
-- Built and maintained Node.js (Express) REST APIs for 10+ applications, with MongoDB schema design, indexing, and aggregation pipelines  
-- Improved application performance by 40–80% by minimizing data fetching and implementing efficient state management  
+- Built Express REST APIs for 10+ applications with MongoDB schema design and validation  
+- Cut MongoDB query response times by 40% using indexing and aggregation pipelines  
+- Improved app performance by 40–80% through leaner data fetching and efficient state management  
 - Built reusable UI components with React, Vue, and Next.js across 7+ applications  
 - Delivered 2+ PowerApps solutions with the Data Analytics team, automating field data collection
 
